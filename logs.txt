@@ -1,0 +1,2 @@
+2026-05-20 15:14:41.169909 - El nombre no puede estar vacío
+2026-05-20 15:14:41.294087 - La duración debe ser mayor que cero
